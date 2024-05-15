@@ -1,0 +1,21 @@
+GenreID,GenreType,GenreSubtype
+1,Fiction,Romance
+2,Fiction,Horror
+3,Fiction,Thriller
+4,Fiction,"Science Fiction"
+5,Non-fiction,Guide
+6,Non-fiction,Textbook
+7,Fiction,Crime
+8,Fiction,Fantasy
+9,Non-fiction,Prayer
+10,Non-fiction,Autobiography
+11,Non-fiction,Business
+12,Fiction,Classic
+13,Non-fiction,History
+14,Non-fiction,Humor
+15,Non-fiction,Philosophy
+16,Non-fiction,Sports
+17,Fiction,Action
+18,Fiction,Crime
+19,Fiction,Poetry
+20,Non-fiction,Religion

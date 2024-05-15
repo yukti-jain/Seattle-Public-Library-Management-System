@@ -1,0 +1,41 @@
+BookID,Title,ReleaseYear,PageCount,TotalQuantity,TextLanguage,PublisherID,GenreID
+1,"Kafka på stranden",2007,505,5,Danish,1,4
+2,1Q84,2011,928,4,Danish,1,1
+3,Rødby-Puttgarden,2011,NULL,1,Danish,2,3
+4,Maigret,2017,144,10,Danish,3,7
+5,"Windows 8.1 - Effektiv uden touch",2014,255,1,Danish,5,5
+6,"Database System Concepts, Sixth Edition",2010,1349,5,English,6,6
+7,"The New Tork Trilogy",1985,478,2,English,7,7
+8,"Sunflower Sisters",2013,613,8,English,8,15
+9,"Nooit meer slapen",2006,749,2,Danish,3,NULL
+10,"Lost Roses",2019,NULL,5,English,8,3
+11,"One Hundred Years of Solitude",1997,444,6,English,17,20
+12,"In Cold Blood",2015,765,4,Swedish,9,18
+13,"Wide Sargasso Sea",2012,1149,5,Swedish,20,17
+14,"Brave New World",1963,408,4,English,18,14
+15,"I Capture The Castle",2001,652,3,English,1,10
+16,"Jane Eyre",2017,641,4,Swedish,1,12
+17,"Crime and Punishment",2013,NULL,1,Danish,19,13
+18,"The Secret History",1992,512,10,English,8,7
+19,"The Call of the Wild",2015,315,6,English,17,15
+20,"The Chrysalids",1995,1206,1,Swedish,10,16
+21,Persuasion,2014,489,3,English,11,14
+22," Moby-Pick",2017,509,2,Danish,3,9
+23,"The Lion, the Witch and the Wardrobe",2001,628,4,English,5,1
+24,"To the Lighthouse",NULL,NULL,1,English,12,7
+25,"The Death of the Heart",1997,344,7,English,8,6
+26,"Tess of the d Urbervilles",2006,295,1,Danish,6,15
+27,Frankenstein,2010,649,5,English,14,10
+28,"The Master and Margarita",2017,NULL,2,Swedish,7,12
+29,Go-Between,2017,360,3,Danish,11,4
+30,Beloved,2011,928,4,Swedish,13,11
+31,Buddenbrooks,2009,NULL,4,Danish,2,6
+32,"The Code of the Woosters",1992,304,7,English,3,8
+33,Dracula,2004,155,6,English,6,4
+34,"Great Expectations",2010,449,5,English,16,4
+35,Catch-22,1986,810,2,English,3,14
+36,"A Little Life",2015,305,5,English,2,7
+37,"The Tipping Point",2001,418,4,English,3,5
+38,Visitatien,2010,NULL,1,Danish,16,9
+39,"Noughts & Crosses",2017,144,10,English,13,3
+40,"The Cost of Living",NULL,255,8,English,14,11
